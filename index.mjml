@@ -1,0 +1,334 @@
+<mjml>
+    <mj-head>
+        <mj-title>Франчайзинг 5</mj-title>
+        <mj-preview>Франчайзинг 5</mj-preview>
+        <mj-style>
+            b {
+                text-transform: uppercase!important
+            }
+            .section {
+                background: white;
+                border-top-left-radius: 100px;
+                border-top-right-radius: 100px;
+                padding: 0 0 85px 0;
+            }
+            .section-2 {
+                padding: 0;
+                box-shadow: 0px 5px 16.38px 1.62px rgba(0, 0, 0, 0.28);
+                border-bottom-left-radius: 100px;
+                border-bottom-right-radius: 100px;
+                height: 356px;
+                overflow-y: hidden;
+            }
+            
+            @media (max-width: 510px) {
+				.text-1 div {
+                    font-size: 22px!important
+                }
+                .text-2 div {
+                    font-size: 15px!important;
+                    padding: 5% 0px 5% 0
+                }
+			}
+            @media (max-width: 480px) {
+				.column-1 {
+                    width: 268px!important;
+                }
+                .img1 img{
+                    height: 129px!important;
+                }
+                .section-2 {
+                    height: 660px;
+                }
+                .text-1 div {
+                    text-align: center!important
+                }
+                .text-2 div {
+                     text-align: center!important;
+                     padding: 0 0 0 0;
+                     font-size: 20px!important;
+                }
+			}
+	    </mj-style>
+    </mj-head>
+  <mj-body width="698px"  >
+    <mj-wrapper background-url='https://i.ibb.co/x3MfLHr/bg.jpg' padding='0'>
+        <mj-section padding='0 0 35px'>
+            <mj-column>
+                <mj-image width='276px' src="https://i.ibb.co/0cSxXBb/logo.png"></mj-image>
+            </mj-column>
+        </mj-section>
+        <mj-section padding='0 0 35px'>
+            <mj-column width='90%'>
+                <mj-text  padding="0" align='center' text-transform='uppercase' font-weight='bold' font-family='Verdana' font-size='26px' line-height='43px' color='#fff'> 
+                    НАЧНИТЕ ЗАРАБАТЫВАТЬ 
+
+                    НА ПРОДАЖЕ БИЗНЕСА, А НЕ ТОЛЬКО 
+                    ТОВАРОВ И УСЛУГ!  
+                </mj-text>
+            </mj-column>
+        </mj-section>
+        <mj-section css-class='section'>
+            <mj-column width='80%' padding='40px 0 59px'>
+                <mj-text  padding='0 15px 0' align='center' font-weight='normal'  font-family='Verdana' font-size='18px' line-height='35px'> 
+                    Присоединяйтесь к масштабной <b > конференции по упаковке и продаже франшиз, </b>  которая состоится 22 марта в 9:30 по мск в городе Казань отеле Рамада.  
+                </mj-text>
+            </mj-column>
+            <mj-column width='82%' padding='0' css-class='column-1'>
+                <mj-image css-class='img1'  padding='0' height='268px' src="https://i.ibb.co/1LMx7PF/img-1.png" />
+            </mj-column>
+            <mj-column width='41%' padding='0' >
+                <mj-image  padding='0' height='189px' src="https://i.ibb.co/61nrVNx/img-2.png" />
+            </mj-column>
+            <mj-column width='41%' padding='0' >
+                <mj-image padding='0' height='189px' src="https://i.ibb.co/xgktN3g/img-3.png" />
+            </mj-column>
+            <mj-column width='100%' padding='80px 0 0'>
+                <mj-text  padding="0" align='center' font-weight='bold'  font-family='Verdana' font-size='30px' line-height='43px' text-transform='uppercase'> 
+                    Что вас ждёт?
+                </mj-text>
+            </mj-column>
+            <mj-column width='14%' padding='14px 0 0' >
+                <mj-image align='left' padding='0' src="https://i.ibb.co/GnRg1HR/bg-1.png"></mj-image>
+            </mj-column>
+            <mj-column width='86%' padding='15px 26px 0' >
+                <mj-text  padding="0" align='left' font-weight='normal'  font-family='Verdana' font-size='15px' line-height='34px'> 
+                    Подготовите свой бизнес для развития по франчайзинговой системе.
+                </mj-text>
+            </mj-column>
+            <mj-column width='14%' padding='14px 0 0'>
+                <mj-image align='left' padding='0' src="https://i.ibb.co/qRg9Pxd/bg-2.png"></mj-image>
+            </mj-column>
+            <mj-column width='86%' padding='15px 26px 0px'>
+                <mj-text  padding="0" align='left' font-weight='normal'  font-family='Verdana' font-size='15px' line-height='34px'> 
+                    Узнаете, как построить эффективный отдел продаж франшиз и заключать больше 10 сделок в месяц.
+                </mj-text>
+            </mj-column>
+            <mj-column width='14%' padding='14px 0 0'>
+                <mj-image align='left' padding='0' src="https://i.ibb.co/qBbcqp4/bg-3.png"></mj-image>
+            </mj-column>
+            <mj-column width='86%' padding='15px 26px 0px'>
+                <mj-text  padding="0" align='left' font-weight='normal'  font-family='Verdana' font-size='15px' line-height='34px'> 
+                    Научитесь прокачивать личный бренд и узнаете, как стать экспертом №1 в своём сегменте.                
+                </mj-text>
+            </mj-column>
+            <mj-column width='14%' padding='14px 0 0'>
+                <mj-image align='left' padding='0' src="https://i.ibb.co/DY9rkyW/bg-4.png"></mj-image>
+            </mj-column>
+            <mj-column width='86%' padding='35px 26px 0px'>
+                <mj-text  padding="0" align='left' font-weight='normal'  font-family='Verdana' font-size='15px' line-height='34px'> 
+                    На 100% юридически защитите франчайзинговый бизнес.                
+                </mj-text>
+            </mj-column>
+            <mj-column width='14%' padding='14px 0 0'>
+                <mj-image align='left' padding='0' src="https://i.ibb.co/R0qsNT4/bg-5.png"></mj-image>
+            </mj-column>
+            <mj-column width='86%' padding='15px 26px 0px'>
+                <mj-text  padding="0" align='left' font-weight='normal'  font-family='Verdana' font-size='15px' line-height='34px'> 
+                    Поймёте, как довести стабильный сбор роялти до 95% и получить из этого постоянно растущий источник высокого дохода.              
+                </mj-text>
+            </mj-column>
+            <mj-column width='14%' padding='14px 0 0'>
+                <mj-image align='left' padding='0' src="https://i.ibb.co/zGSWzxC/bg-6.png"></mj-image>
+            </mj-column>
+            <mj-column width='86%' padding='15px 26px 0px'>
+                <mj-text  padding="0" align='left' font-weight='normal'  font-family='Verdana' font-size='15px' line-height='34px'> 
+                    Познакомитесь с единомышленниками и действующими франчайзерами, которые имеют опыт продаж более 700 франшиз.            
+                </mj-text>
+            </mj-column>
+            <mj-column width='14%' padding='14px 0 0'>
+                <mj-image align='left' padding='0' src="https://i.ibb.co/Ycc05PG/bg-7.png"></mj-image>
+            </mj-column>
+            <mj-column width='86%' padding='15px 26px 0px'>
+                <mj-text  padding="0" align='left' font-weight='normal'  font-family='Verdana' font-size='15px' line-height='34px'> 
+                    Встретитесь с командой Франчайзинг5 и вживую увидите предпринимателей и их кейсы.               
+                </mj-text>
+            </mj-column>
+            <mj-column width='14%' padding='14px 0 0'>
+                <mj-image align='left' padding='0' src="https://i.ibb.co/4R7Kd9C/bg-8.png"></mj-image>
+            </mj-column>
+            <mj-column width='86%' padding='15px 26px 10px'>
+                <mj-text  padding="0" align='left' font-weight='normal'  font-family='Verdana' font-size='15px' line-height='34px'> 
+                    Проконсультируетесь по упаковке вашего бизнеса с ведущими экспертами отрасли.              
+                </mj-text>
+            </mj-column>
+            <mj-column width='14%' padding='14px 0 0'>
+                <mj-image align='left' padding='0' src="https://i.ibb.co/61fPchv/bg-9.png"></mj-image>
+            </mj-column>
+            <mj-column width='86%' padding='0px 26px 0px'>
+                <mj-text  padding="0" align='left' font-weight='normal'  font-family='Verdana' font-size='15px' line-height='34px'> 
+                    Обсудите взаимовыгодное партнёрство с Франчайзинг5 и узнаете, как зарабатывать от 1 000 000 рублей в месяц на развитии своего собственного франчайзингового направления.              
+                </mj-text>
+            </mj-column>
+        </mj-section>
+        <mj-section padding='15px 0 15px'>
+            <mj-column width='100%' padding='10px 0 0' background-color='#fff'>
+            </mj-column>
+            <mj-column width='100%' padding='60px 0 0' >
+                <mj-text text-transform='uppercase' color='#fff' padding="0 15px" align='center' font-weight='bold'  font-family='Verdana' font-size='25px' line-height='43px'> 
+                Есть вопросы?
+                <br>
+                Звоните по номеру <br>
+                +7 (987) 233-42-88               
+                </mj-text>
+            </mj-column>
+            <mj-column width='100%' padding='15px 0 55px' >
+                <mj-text color='#fff' padding="0" align='center' font-weight='normal'  font-family='Verdana' font-size='22px' line-height='33px'> 
+                Менеджер расскажет о полной программе курса 
+                и зарегистрирует на мероприятие!             
+                </mj-text>
+            </mj-column>
+            <mj-column width='100%' padding='10px 0 0' background-color='#fff'>
+            </mj-column>
+        </mj-section>
+        <mj-section padding='0 0 0' background-color='#fff'>
+            <mj-column width='100%' padding='55px 0 60px' >
+                <mj-text text-transform='uppercase' padding="0" align='center' font-weight='bold'  font-family='Verdana' font-size='30px' line-height='43px'> 
+                Для вас выступят:            
+                </mj-text>
+            </mj-column>
+        </mj-section>
+        <mj-section padding='0 0 30px' background-color='#fff'>
+            <mj-column width='42%' padding='0' >
+                <mj-image padding='0' height='308px' src="https://i.ibb.co/sjs4b3g/person-1.png"></mj-image>
+            </mj-column>
+            <mj-column width='42%' padding='30px 15px 0' >
+                <mj-text  padding="0" align='left' font-weight='bold'  font-family='Verdana' font-size='23px' line-height='23px'> 
+                Артём Захаров,        
+                </mj-text>
+                <mj-text  padding="0" align='left' font-weight='normal'  font-family='Verdana' font-size='20px' line-height='23px'> 
+                генеральный директор «Франчайзинг5».      
+                </mj-text>
+                <mj-text  padding="10px 0 0 0" align='left' font-weight='normal'  font-family='Verdana' font-size='15px' line-height='19px'> 
+                Эксперт в области упаковки и продажи франшиз, построения личного бренда, «Лучший Молодой Предприниматель <br>
+                России 2015», победитель «Золотой Сотни Предпринимателей РТ» в 2015 году.    
+                </mj-text>
+            </mj-column>
+        </mj-section>
+        <mj-section background-color="#ffffff" background-repeat="repeat" direction="rtl" padding='0 0 30px' background-color='#fff' text-align="center">
+            <mj-column width='42%' padding='0' >
+                <mj-image padding='0' height='308px' src="https://i.ibb.co/3MtCHc3/person-2.png"></mj-image>
+            </mj-column>
+            <mj-column width='42%' padding='30px 15px 0'>
+                <mj-text  padding="0" align='left' font-weight='bold'  font-family='Verdana' font-size='23px' line-height='23px'> 
+                Шарифуллин Артур,       
+                </mj-text>
+                <mj-text  padding="0" align='left' font-weight='normal'  font-family='Verdana' font-size='20px' line-height='23px'> 
+                коммерческий директор «Франчайзинг5». 
+                </mj-text>
+                <mj-text  padding="10px 0 0 0" align='left' font-weight='normal'  font-family='Verdana' font-size='15px' line-height='19px'> 
+                Увеличил обороты партнёрской сети
+                в 10 раз за 1,5 года.   
+                </mj-text>
+            </mj-column>
+        </mj-section>
+        <mj-section background-color="#ffffff" background-repeat="repeat" padding='0 0 30px' background-color='#fff' text-align="center">
+            <mj-column width='42%' padding='0' >
+                <mj-image padding='0' height='308px' src="https://i.ibb.co/47nqsDf/person-3.png"></mj-image>
+            </mj-column>
+            <mj-column width='42%' padding='30px 15px 0' >
+                <mj-text  padding="0" align='left' font-weight='bold'  font-family='Verdana' font-size='23px' line-height='23px'> 
+                Гилемханов Булат,       
+                </mj-text>
+                <mj-text  padding="0" align='left' font-weight='normal'  font-family='Verdana' font-size='20px' line-height='23px'> 
+                профессиональный бизнес-тренер.
+                </mj-text>
+                <mj-text  padding="10px 0 0 0" align='left' font-weight='normal'  font-family='Verdana' font-size='15px' line-height='19px'> 
+                Личный коуч отдела продаж компании Франчайзинг5.   
+                </mj-text>
+            </mj-column>
+        </mj-section>    
+        <mj-section background-color="#ffffff" background-repeat="repeat" direction="rtl" padding='0 0 30px' background-color='#fff' text-align="center">
+            <mj-column width='42%' padding='0' >
+                <mj-image padding='0' height='308px' src="https://i.ibb.co/k1jzSWf/person-4.png"></mj-image>
+            </mj-column>
+            <mj-column width='42%' padding='30px 15px 0' >
+                <mj-text  padding="0" align='left' font-weight='bold'  font-family='Verdana' font-size='23px' line-height='23px'> 
+                Максим Шамсеев,   
+                </mj-text>
+                <mj-text  padding="0" align='left' font-weight='normal'  font-family='Verdana' font-size='20px' line-height='23px'> 
+                директор по франчайзингу самой большой в СНГ сети визовых центров «Первый Визовый Центр».
+                </mj-text>
+                <mj-text  padding="10px 0 0 0" align='left' font-weight='normal'  font-family='Verdana' font-size='15px' line-height='19px'> 
+                378 франчайзи в сети. Сеть работает в 5 странах, более 500 000 клиентов в 2019 году!
+                </mj-text>
+            </mj-column>
+        </mj-section>
+        <mj-section background-color="#ffffff" background-repeat="repeat" padding='0 0 40px' background-color='#fff' text-align="center">
+            <mj-column width='42%' padding='0' >
+                <mj-image padding='0' height='308px' src="https://i.ibb.co/wYgLBfR/person-5.png"></mj-image>
+            </mj-column>
+            <mj-column width='42%' padding='30px 15px 0' >
+                <mj-text  padding="0" align='left' font-weight='bold'  font-family='Verdana' font-size='23px' line-height='23px'> 
+                Ильнар Харисов,  
+                </mj-text>
+                <mj-text  padding="0" align='left' font-weight='normal'  font-family='Verdana' font-size='20px' line-height='23px'> 
+                    руководитель группы
+                    продаж «Франчайзинг5».                
+                </mj-text>
+                <mj-text  padding="10px 0 0 0" align='left' font-weight='normal'  font-family='Verdana' font-size='15px' line-height='19px'> 
+                    Эксперт в области построения
+                    отделов продаж франшиз.                
+                </mj-text>
+            </mj-column>
+        </mj-section> 
+        <mj-section padding='0' >
+            <mj-column>
+                <mj-image padding='0' src="https://i.ibb.co/z8V3Bms/kazan.jpg"></mj-image>
+            </mj-column>
+        </mj-section>
+        <mj-section padding='0' background-color='#fff'>
+            <mj-column>
+                <mj-text  padding="29px 0 0 0" align='center' font-weight='bold'  font-family='Verdana' font-size='22px' line-height='35px'> 
+                    Всех желающих на следующий день                 
+                </mj-text>
+                <mj-text  padding="0 0 22px" text-transform='uppercase' color='#9d236c' align='center' font-weight='bold'  font-family='Verdana' font-size='22px' line-height='35px'> 
+                    ждёт экскурсия по Казани и After–party!               
+                </mj-text>
+            </mj-column>
+        </mj-section>
+        <mj-section padding='44px 0 0' >
+            <mj-column width='100%' padding='10px 0 0' background-color='#fff'>
+            </mj-column>
+        </mj-section>
+        <mj-section css-class='section-2' >
+            <mj-column width='50%' padding='0'>
+                <mj-image padding='0' height='356px' src="https://i.ibb.co/Q8CDbLR/person-6.jpg"></mj-image>
+            </mj-column>
+            <mj-column width='50%' padding='0' background-color='#fff'>
+                <mj-text css-class='text-1' padding="5% 0 5% 5%" text-transform='uppercase'  align='left' font-weight='bold'  font-family='Verdana' font-size='28px' line-height='43px'> 
+                    Есть вопросы? 
+                    Звоните мне!  
+                </mj-text>
+                <mj-text css-class='text-2' container-background-color='#350f60' color='#fff'  padding="4px 20px" text-transform='uppercase'  align='left' font-weight='regular'  font-family='Verdana' font-size='20px' line-height='30px'> 
+                    ваш личный менеджер           
+                </mj-text>
+                <mj-text css-class='text-2' container-background-color='#fff' padding="8% 0px 22% 5%"  align='left' font-weight='regular'  font-family='Verdana' font-size='20px' line-height='36px'> 
+                    Михаил Лебедев
+                    <br>
+                    +7 (987) 233-42-88         
+                </mj-text>
+            </mj-column>
+        </mj-section>
+        <mj-section padding='50px 0 40px'>
+            <mj-group width='300px' >
+                <mj-column padding='0'>
+                    <mj-button  background-color="transparent" padding="0" css-class="social" href="http://www.instagram.com/artem_zakharov5/">
+                        <img width='42px'  src="https://i.ibb.co/q9JLyJs/inst.png" />
+                    </mj-button>
+                </mj-column>
+                <mj-column padding='0'>
+                    <mj-button background-color="transparent" padding="0" css-class="social" href="http://vk.com/franch5">
+                        <img width='42px' src="https://i.ibb.co/FYw0Gyj/vk.png" />
+                    </mj-button>
+                </mj-column>
+                <mj-column padding='0'>
+                    <mj-button background-color="transparent" padding="0" css-class="social" href="https://www.youtube.com/channel/UCfxhcVNxbjUmzzVhf_KhuJg">
+                        <img width='42px' src="https://i.ibb.co/Fgc3qHv/yt.png" />
+                    </mj-button>
+                </mj-column>
+            </mj-group>
+        </mj-section>
+    </mj-wrapper>
+  </mj-body>
+</mjml>
